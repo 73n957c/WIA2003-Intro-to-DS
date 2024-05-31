@@ -3,7 +3,4 @@ joblib
 numpy
 pandas
 plotly
-yfinance
-pandas-datareader
-prophet
 sklearn
