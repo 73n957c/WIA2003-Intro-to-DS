@@ -1,3 +1,3 @@
-# WIA2003-Intro-to-DS
+# WIE2003-Intro-to-DS
 
 ## Diabetes Prediction
