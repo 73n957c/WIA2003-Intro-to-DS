@@ -1,6 +1,5 @@
 import streamlit as st
 import joblib
-import numpy as np
 
 # Load your trained model and scalers
 model = joblib.load('stacking_classifier_model.pkl')
