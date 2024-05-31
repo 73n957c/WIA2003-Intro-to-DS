@@ -3,7 +3,6 @@ joblib
 numpy
 pandas
 plotly
-streamlit
 yfinance
 pandas-datareader
 prophet
