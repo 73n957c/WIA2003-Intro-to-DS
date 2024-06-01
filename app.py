@@ -1,3 +1,4 @@
+# Import library
 import streamlit as st
 import joblib
 
@@ -39,7 +40,7 @@ def main():
     glucose = st.number_input("Blood Glucose Level", min_value=0.0, step=0.1)
 
     # Convert categorical data to numeric
-    gender = 1 if gender == 'Male' else 0
+    gender = 1 if gender == 'Female' else 0
 
     # Collect all features in the correct order
     features = [gender, hypertension, heart_disease, smoking, bmi, age, hba1c, glucose]
